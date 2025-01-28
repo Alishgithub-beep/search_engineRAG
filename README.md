@@ -1,2 +1,9 @@
-# search_engineRAG
-This is a generative ai application made using wikipedia and arxiv tools and using them by agents
+title: Search Engine Llm
+emoji: 🚀
+colorFrom: indigo
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.41.1
+app_file: app.py
+pinned: false
+license: apache-2.0
